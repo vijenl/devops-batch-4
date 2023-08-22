@@ -2,3 +2,6 @@ git init
 git status
 git commit
 git log
+git pull
+git fetch
+git push
